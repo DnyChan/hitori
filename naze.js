@@ -1643,7 +1643,7 @@ const naze = async (naze, m, msg, store) => {
                         }
                         break
                         case 'donasi': case 'donate': {
-                                m.reply('Donasi Dapat Melalui Url Dibawah Ini :\nhttps://saweria.co/naze')
+                                m.reply('Donasi Dapat Melalui Nomor Dana/Gopay Dibawah Ini :\n6285788390394')
                         }
                         break
                         
@@ -4672,9 +4672,6 @@ Select Bot Settings:
 │${setv} ${prefix}delsampah
 │${setv} ${prefix}upsw
 │${setv} ${prefix}backup
-│${setv} $
-│${setv} >
-│${setv} <
 ╰──────❍`
                                 await naze.sendMessageV3(m.chat, {
                                         text: menunya,
@@ -4993,9 +4990,6 @@ Select Bot Settings:
 │${setv} ${prefix}delsampah
 │${setv} ${prefix}upsw
 │${setv} ${prefix}backup
-│${setv} $
-│${setv} >
-│${setv} <
 ╰──────❍`)
                         }
                         break
