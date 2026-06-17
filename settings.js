@@ -37,10 +37,10 @@ global.fake = {
 }
 
 global.my = {
-	yt: "-",
-	gh: "-",
-	gc: "-",
-	ch: "-"
+	yt: "https://youtube.com/c/Nazedev",
+	gh: "https://github.com/nazedev",
+	gc: "https://chat.whatsapp.com/EqMTCcxdCZgHUJNl5KooCr",
+	ch: "120363250409960161@newsletter"
 }
 
 global.limit = {
