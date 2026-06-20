@@ -80,7 +80,7 @@ global.APIs = {
 }
 global.APIKeys = {
 	'https://api.naze.biz.id': 'nz-203c6039de',
-	'https://api.neosantara.xyz/v1': 'API_KEY_NEOSANTARA_AI',
+	'https://api.neosantara.xyz/v1': 'nsk_576cf81e1456431fb2d3920b06da9e1e',
 }
 
 // Lainnya
